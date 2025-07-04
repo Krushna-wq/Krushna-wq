@@ -24,7 +24,6 @@
 - 🎨 Enjoy recreating real-world interfaces for practice
 - 📚 Constantly learning new web technologies
 - 💬 Ask me about **HTML, CSS, responsive design**
-- ⚡ Fun fact: Can recognize 100+ website layouts at a glance!
 
 ---
 
