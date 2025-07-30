@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Aspiring Web Developer from India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/krishh_nub">
+  <a href="https://x.com/krishh_nub">
     <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/krishna-patil-0495572b1/">
