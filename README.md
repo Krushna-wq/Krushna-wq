@@ -1,5 +1,5 @@
 
-<h3 align="center"> Mern Stack Developer from India</h3>
+<h3 align="center"> Mern Stack Developer</h3>
 
 <p align="center">
   <a href="https://x.com/krishh_nub">
@@ -21,7 +21,7 @@
 - 💻 Passionate about building responsive UIs
 - 🎨 Enjoy recreating real-world interfaces for practice
 - 📚 Constantly learning new web technologies
-- 💬 Ask me about **HTML, CSS, responsive design**
+
 
 ---
 
